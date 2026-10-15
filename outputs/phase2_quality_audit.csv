@@ -1,0 +1,8 @@
+table_name,column_name,null_count,total_rows,null_percentage
+orders,order_id,0,99441,0.00
+orders,order_delivered_customer_date,2965,99441,2.98
+orders,order_estimated_delivery_date,0,99441,0.00
+order_items,price,5674,112650,5.04
+order_items,freight_value,5599,112650,4.97
+products,product_category_name,602,32951,1.83
+customers,customer_zip_code_prefix,4867,99441,4.89
