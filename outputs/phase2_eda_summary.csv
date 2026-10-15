@@ -1,4 +1,4 @@
 table_name,metric_column,min_val,max_val,avg_val,stddev_val,total_records
-order_payments,payment_value,0.00,282700.00,455.47,3750.09,103886
-order_items,freight_value,0.00,19384.00,61.35,359.88,112650
 order_items,price,0.85,459000.00,361.47,3231.03,112650
+order_items,freight_value,0.00,19384.00,61.35,359.88,112650
+order_payments,payment_value,0.00,282700.00,455.49,3750.14,103883
