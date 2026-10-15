@@ -17,4 +17,4 @@ def get_db_connection_params():
         "dbname": DB_NAME,
         "user": DB_USER,
         "password": DB_PASSWORD
-    }
+    }   
